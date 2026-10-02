@@ -4,7 +4,7 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 # Basic Information
-name: PDF OCR Extraction
+name: pdf-ocr
 description: "Extract text from scanned PDFs using optical character recognition"
 version: "1.0"
 author: claude-office-skills

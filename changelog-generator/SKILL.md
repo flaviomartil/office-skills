@@ -4,7 +4,7 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 # Basic Information
-name: Changelog Generator
+name: changelog-generator
 description: "Generate release notes from git commits, updates, or feature lists"
 version: "1.0"
 author: claude-office-skills

@@ -4,7 +4,7 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 # Basic Information
-name: PDF Converter
+name: pdf-converter
 description: "Convert PDF files to and from Word, Excel, Image, and other formats"
 version: "1.0"
 author: claude-office-skills

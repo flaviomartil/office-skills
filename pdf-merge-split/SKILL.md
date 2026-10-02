@@ -4,7 +4,7 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 # Basic Information
-name: PDF Merge & Split
+name: pdf-merge-split
 description: "Combine multiple PDFs or split into separate files"
 version: "1.0"
 author: claude-office-skills

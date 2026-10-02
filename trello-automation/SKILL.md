@@ -1,5 +1,5 @@
 ---
-name: Trello Automation
+name: trello-automation
 description: Automate Trello board management, card workflows, power-ups, and team collaboration
 version: 1.0.0
 author: Claude Office Skills

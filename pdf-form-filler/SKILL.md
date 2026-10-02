@@ -4,7 +4,7 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 # Basic Information
-name: PDF Form Filler
+name: pdf-form-filler
 description: "Fill out PDF forms programmatically and extract form data"
 version: "1.0"
 author: claude-office-skills

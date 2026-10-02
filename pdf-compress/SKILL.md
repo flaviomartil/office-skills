@@ -4,7 +4,7 @@
 # ═══════════════════════════════════════════════════════════════════════════════
 
 # Basic Information
-name: PDF Compress
+name: pdf-compress
 description: "Reduce PDF file size while maintaining acceptable quality"
 version: "1.0"
 author: claude-office-skills
